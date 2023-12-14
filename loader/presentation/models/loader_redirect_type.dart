@@ -1,0 +1,1 @@
+enum LoaderRedirectType { updateApp, auth }
